@@ -1,0 +1,2 @@
+# javascript
+tempat koding javascript
